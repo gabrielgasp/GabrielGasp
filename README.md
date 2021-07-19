@@ -61,10 +61,10 @@ I'm studying at @betrybe to become a Full-Stack Developer.</b>
 
 <br>
 <br>
-<p font-size="10">Readme inspired by [Roy Musthang](https://github.com/RoyMusthang)</p>
+<p>Readme inspired by [Roy Musthang](https://github.com/RoyMusthang)</p>
 <br>
 <br>
-<p font-size=2>Ps: This is a work in progress 😉</p>
+<p>Ps: This is a work in progress 😉</p>
  
  
 
