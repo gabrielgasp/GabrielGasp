@@ -1,4 +1,4 @@
-<h1 align="center"> Welmcome! </h1>
+<h1 align="center"> Welcome! </h1>
 <a href="https://github.com/GabrielGaspar447" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a><br />
