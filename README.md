@@ -18,11 +18,11 @@ I'm studying at @betrybe to become a Full-Stack Developer.</b>
   - Games;
   - Books;
   - Anime/Manga;
-  <hr>
+<hr>
 
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielGaspar447&show_icons=true&theme=nightowl" alt="Gabriel-Gaspar">
+<img src="https://github-readme-stats.vercel.app/api?username=GabrielGaspar447&show_icons=true&theme=nightowl" alt="Gabriel-Gaspar">
 
 <hr>
 
@@ -57,16 +57,14 @@ I'm studying at @betrybe to become a Full-Stack Developer.</b>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GabrielGaspar447" alt="Gabriel-Gaspar" /> </p>
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGaspar447&layout=compact&theme=nightowl" alt="Gabriel-Gaspar">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGaspar447&layout=compact&theme=nightowl" alt="Gabriel-Gaspar">
 
 <br>
-
- <p font-size="10px">Readme inspired by [Roy Musthang](https://github.com/RoyMusthang)</p>
- 
- <br>
- <br>
- 
- <p font-size="8px">Ps: This is a work in progress 😉</p>
+<br>
+<p font-size="10">Readme inspired by [Roy Musthang](https://github.com/RoyMusthang)</p>
+<br>
+<br>
+<p font-size=2>Ps: This is a work in progress 😉</p>
  
  
 
