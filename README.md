@@ -6,7 +6,7 @@
   <b>CODING IS LIFE!</b>
 </h2>
 <!-- <a href="https://www.linkedin.com/in/" target="_blank"> -->
-  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px"></a><br/>
+<!--   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px"></a><br/> -->
 <p align="left" >
 My name is <b>Gabriel Gaspar</b>.
 </p>
