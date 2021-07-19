@@ -25,7 +25,7 @@ I'm studying at @betrybe to become a Full-Stack Developer.</b>
 
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielGaspar447g&show_icons=true&theme=nightowl" alt="Gabriel-Gaspar">
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielGaspar447&show_icons=true&theme=nightowl" alt="Gabriel-Gaspar">
 
 <hr>
 
