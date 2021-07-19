@@ -1,7 +1,7 @@
 <h1 align="center"> Welcome to my Github 😁 </h1>
 <a href="https://github.com/GabrielGaspar447" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a><br />
+</a>
 <!-- <a href="https://www.linkedin.com/in/" target="_blank"> -->
 <!--   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px"></a><br/> -->
 <p align="left" >
@@ -59,7 +59,14 @@ I'm studying at @betrybe to become a Full-Stack Developer.</b>
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGaspar447&layout=compact&theme=nightowl" alt="Gabriel-Gaspar">
 
+<br>
 
-
- Readme inspired by [Roy Musthang](https://github.com/RoyMusthang)
+ <p font-size="10px">Readme inspired by [Roy Musthang](https://github.com/RoyMusthang)</p>
+ 
+ <br>
+ <br>
+ 
+ <p font-size="8px">Ps: This is a work in progress 😉</p>
+ 
+ 
 
