@@ -16,8 +16,8 @@ I'm studying at @betrybe to become a Full-Stack Developer.</b>
 
 <b>My hobbies are: </b>
   - Games;
-  - Books;
-  - Anime/Manga;
+  - Books and Mangas;
+  - Movies, Series and Animes;
   <hr>
 
 
