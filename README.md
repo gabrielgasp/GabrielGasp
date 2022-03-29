@@ -1,4 +1,4 @@
-<h1 align="center"> ✨ Welcome to the abode of my little projects ✨ </h1>
+<h1 align="center"> ✨ I welcome thee, to the abode of my little projects ✨ </h1>
 <a href="https://wa.me/5521979742361" target="_blank">
   <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/479px-WhatsApp.svg.png" alt="whatsapp icon" width="48px" height="48px">
 </a>
@@ -24,7 +24,7 @@ Ps: I'm currently looking for a job as a programmer. If you think you have an op
 
 <b>My hobbies are: </b>
   - Games;
-  - Books, novels and mangas;
+  - Fantasy books, novels and mangas;
   - Movies, shows and animes;
   <hr>
 
