@@ -1,15 +1,23 @@
-<h1 align="center"> Welcome to my Github 😁 </h1>
-<a href="https://github.com/GabrielGaspar447" target="_blank">
-  <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+<h1 align="center"> ✨ Welcome to the abode of my little projects ✨ </h1>
+<a href="https://wa.me/5521979742361" target="_blank">
+  <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/479px-WhatsApp.svg.png" alt="whatsapp icon" width="48px" height="48px">
+</a>
+<a href="mailto:gabrielgaspar447@gmail.com?subject=Gostaria de me contratar?" target="_blank">
+  <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png" alt="gmail icon" width="48px" height="48px">
 </a>
 <a href="https://www.linkedin.com/in/gabrielgaspar447/" target="_blank">
-  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px"></a><br/>
+  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" alt="linkedin icon" width="48px" height="48px">
+</a>
+<br/><br/>
 <p align="left" >
 My name is <b>Gabriel Gaspar</b>.
 </p>
 <p align="left" >
-Currently living in São Lourenço/MG-BR.<br />
-I'm studying at @betrybe to become a Full-Stack Developer.</b>
+I'm a Brazilian full-stack web developer (though my ❤️ lies with backend)<br />
+As tech-lover since childhood, I believe that programming is the closest thing we have to superpowers.<br />
+That's why I'm always trying to make a positive impact on people's lives through my skills.
+<br /><br />
+Ps: I'm currently looking for a job as a programmer. If you think you have an opportunity for me, feel free to send me a message, I would love to chat about it 😉
 </p>
 <hr/>
 
@@ -20,48 +28,30 @@ I'm studying at @betrybe to become a Full-Stack Developer.</b>
   - Movies, shows and animes;
   <hr>
 
+**Languages and Tools:**
 
-
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielGaspar447&show_icons=true&theme=nightowl" alt="Gabriel-Gaspar">
-
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 <hr>
 
-**Languages and Frameworks:**  
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="linux" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-<img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="linux" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40" />
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python" width="40" height="40" /> -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" />
-</p>
-<hr>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GabrielGaspar447" alt="Gabriel-Gaspar" /> </p>
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGaspar447&layout=compact&theme=nightowl" alt="Gabriel-Gaspar">
-
-<br>
-
- Readme inspired by [Roy Musthang](https://github.com/RoyMusthang)
-
-<br><br>
-
- <p font-size="8px">Ps: This is a work in progress 😉</p>
-
+<div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielGaspar447&show_icons=true&theme=nightowl" alt="Gabriel-Gaspar">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGaspar447&layout=compact&theme=nightowl" alt="Gabriel-Gaspar">
+</div>
