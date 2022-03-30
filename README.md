@@ -18,8 +18,6 @@ My name is <b>Gabriel Gaspar</b>.
 I'm a Brazilian full-stack web developer (though my ❤️ lies with backend).<br />
 As a tech-lover since childhood, I believe that programming is the closest thing we have to superpowers.<br />
 That's why I'm always trying to make a positive impact on people's lives through my skills.
-<br /><br />
-Ps: I'm currently looking for a job as a programmer. If you think you have an opportunity for me, feel free to send me a message, I would love to chat about it 😉
 </p>
 
 ## Hobbies
