@@ -25,6 +25,15 @@ That's why I'm always trying to make a positive impact on people's lives through
   - Fantasy books, novels and mangas;
   - Movies, shows and animes;
 
+## Meus projetos
+
+<a href="https://github.com/dev-luizf/my-recipes-app" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielGaspar447&repo=Mamboo-Kanban-API&theme=react&hide_border=true" />
+</a>
+<a href="https://github.com/GabrielGaspar447/Trybe-Futebol-Clube" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielGaspar447&repo=Trybe-Futebol-Clube&theme=react&hide_border=true" />
+</a>
+
 ## Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
