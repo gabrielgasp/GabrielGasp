@@ -27,7 +27,7 @@ That's why I'm always trying to make a positive impact on people's lives through
 
 ## Meus projetos
 
-<a href="https://github.com/dev-luizf/my-recipes-app" target="_blank">
+<a href="https://github.com/GabrielGaspar447/Mamboo-Kanban-API" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielGaspar447&repo=Mamboo-Kanban-API&theme=react&hide_border=true" />
 </a>
 <a href="https://github.com/GabrielGaspar447/Trybe-Futebol-Clube" target="_blank">
