@@ -15,7 +15,7 @@
 My name is <b>Gabriel Gaspar</b>.
 </p>
 <p align="left" >
-I'm a Brazilian software engineer working primarily as a backend developer (with a bit of experience in frontend development).<br />
+I'm a Brazilian software developer working primarily in backend development.<br />
 As a tech-lover since childhood, I believe that programming is the closest thing we have to superpowers.<br />
 That's why I'm always trying to make a positive impact on people's lives through my skills.
 </p>
