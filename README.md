@@ -1,10 +1,5 @@
-<h1 align="center"> ✨ I welcome thee, to the abode of my little projects ✨ </h1>
-
 ## About me
 
-<a href="https://wa.me/5521979742361" target="_blank">
-  <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/479px-WhatsApp.svg.png" alt="whatsapp icon" width="48px" height="48px">
-</a>
 <a href="mailto:gabrielgaspar447@gmail.com?subject=Gostaria de me contratar?" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png" alt="gmail icon" width="48px" height="48px">
 </a>
@@ -12,27 +7,10 @@
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" alt="linkedin icon" width="48px" height="48px">
 </a>
 <p align="left" >
-My name is <b>Gabriel Gaspar</b>.
-</p>
-<p align="left" >
 I'm a Brazilian software engineer working primarily with backend development in Node.<br />
 As a tech-lover since childhood, I believe that programming is the closest thing we have to superpowers.<br />
 That's why I'm always trying to make a positive impact on people's lives through my skills.
 </p>
-
-## Hobbies
-  - Games;
-  - Fantasy books, novels and mangas;
-  - Movies, shows and animes;
-
-## Meus projetos
-
-<a href="https://github.com/GabrielGaspar447/Mamboo-Kanban-API" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielGaspar447&repo=Mamboo-Kanban-API&theme=react&hide_border=true" />
-</a>
-<a href="https://github.com/GabrielGaspar447/Trybe-Futebol-Clube" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielGaspar447&repo=Trybe-Futebol-Clube&theme=react&hide_border=true" />
-</a>
 
 ## Languages and Tools
 
