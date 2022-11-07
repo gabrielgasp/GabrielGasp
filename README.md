@@ -35,6 +35,6 @@ That's why I'm always trying to make a positive impact on people's lives through
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 <div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielGaspar447&show_icons=true&theme=nightowl" alt="Gabriel-Gaspar">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGaspar447&layout=compact&theme=nightowl" alt="Gabriel-Gaspar">
+<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielGaspar447&show_icons=true&theme=nightowl" alt="Gabriel-Gaspar"> -->
+<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGaspar447&layout=compact&theme=nightowl" alt="Gabriel-Gaspar"> -->
 </div>
