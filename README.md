@@ -3,7 +3,7 @@
 <a href="mailto:gabrielgaspar447@gmail.com" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png" alt="gmail icon" width="48px" height="48px">
 </a>
-<a href="https://www.linkedin.com/in/gabrielgaspar447/" target="_blank">
+<a href="https://www.linkedin.com/in/GabrielGS447/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" alt="linkedin icon" width="48px" height="48px">
 </a>
 <p align="left" >
