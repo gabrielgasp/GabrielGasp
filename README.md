@@ -9,7 +9,6 @@
 <p align="left" >
 I'm a Brazilian software engineer working primarily with backend development.<br />
 As a tech-lover since childhood, I believe that programming is the closest thing we have to superpowers.<br />
-That's why I'm always trying to make a positive impact on people's lives through my skills.
 </p>
 
 ## Languages and Tools
