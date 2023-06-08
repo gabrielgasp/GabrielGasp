@@ -3,12 +3,13 @@
 <a href="mailto:gabrielgaspar447@gmail.com" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png" alt="gmail icon" width="48px" height="48px">
 </a>
-<a href="https://www.linkedin.com/in/GabrielGS447/" target="_blank">
+<a href="https://www.linkedin.com/in/GabrielGasp/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" alt="linkedin icon" width="48px" height="48px">
 </a>
 <p align="left" >
-I'm a Brazilian software engineer working primarily with backend development.<br />
-As a tech-lover since childhood, I believe that programming is the closest thing we have to superpowers.<br />
+Full stack software engineer working mostly with backend development.
+
+Passionate about technology since childhood, in 2018 I started studying programming as a hobby, advised by a college friend. In 2021, motivated by the pandemic, I decided to dive headlong into studies and pursue a career as a developer. Today, I believe that programming is the closest we have to superpowers, as it allows us to create and shape the world around us with simple keyboard strokes.
 </p>
 
 ## Languages and Tools
@@ -32,6 +33,7 @@ As a tech-lover since childhood, I believe that programming is the closest thing
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Next.Js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 <!-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) -->
 
 <div>
