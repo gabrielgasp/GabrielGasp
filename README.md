@@ -14,11 +14,11 @@ Passionate about technology since childhood, in 2018 I started studying programm
 
 ## Languages and Tools
 
-![GO](https://img.shields.io/badge/Go-79D4FD?style=for-the-badge&logo=Go&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white)
+![GO](https://img.shields.io/badge/Go-79D4FD?style=for-the-badge&logo=Go&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-787CB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=for-the-badge&logo=laravel&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
