@@ -9,7 +9,7 @@
 <p align="left" >
 Since childhood, I have had an unshakable passion for technology. In 2018, my interest in programming was sparked by a college friend, which led me to start studying it as a hobby. In 2021, driven by the pandemic and its impact on my area of ​​activity, I decided to dive head first into my studies and embrace a career as a developer.
 
-Currently, I am a full-stack developer with an emphasis on back-end, working in multidisciplinary teams and challenging projects. My goal as a programmer is to deliver exceptional solutions to the challenges that arise, providing maximum value to the company. My pillars are the focus on code quality and architecture, seeking excellence in each project I work on.
+Currently, I am a full-stack developer with an emphasis on back-end, working in multidisciplinary teams and challenging projects. My goal as a programmer is to deliver exceptional solutions to the challenges that arise, with focus on code quality and architecture, seeking excellence in each project I work on.
 </p>
 
 ## Languages and Tools
