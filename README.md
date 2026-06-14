@@ -4,9 +4,7 @@
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" alt="linkedin icon" width="48px" height="48px">
 </a>
 <p align="left" >
-I am a full-stack developer with an emphasis on back-end and experience working on large projects and multidisciplinary teams. My goal as a programmer is to deliver quality and scalable solutions to the challenges presented, providing maximum value to the team.
-
-Since childhood, I have had an unshakable passion for technology. In 2018, I began my professional journey as a front-end developer, accumulating almost three years of experience in this area. In 2021, driven by colleagues and motivated by a broader vision of growth opportunities, I decided to direct my path towards back-end development.
+Software Engineer with over 7 years of experience working on large-scale projects and collaborating across multidisciplinary teams. Focused on delivering scalable, high-quality solutions to complex challenges, with an emphasis on creating value for both the team and the business.
 </p>
 
 ## Languages and Tools
